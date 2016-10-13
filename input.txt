@@ -1,0 +1,7 @@
+   name       |   id   |   amount 
+--------------------------------------
+Daniel Nguyen | 000xxx | $1500.00
+Peter Benjamin | 078910 | $200.50
+Malapa Bushra | 123456 | $100.00
+Goday Priya | 125671 | $0.50
+John Smith | 444451 | $3000.00
